@@ -1,0 +1,13 @@
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\bin\Debug\Arduino IDE Splash Logo Creator.exe.config
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\bin\Debug\Arduino IDE Splash Logo Creator.exe
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\bin\Debug\Arduino IDE Splash Logo Creator.pdb
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino IDE Splash Logo Creator.csproj.AssemblyReference.cache
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino_IDE_Splash_Logo_Creator.Form1.resources
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino_IDE_Splash_Logo_Creator.Properties.Resources.resources
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino IDE Splash Logo Creator.csproj.GenerateResource.cache
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino IDE Splash Logo Creator.csproj.CoreCompileInputs.cache
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino IDE Splash Logo Creator.exe
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino IDE Splash Logo Creator.pdb
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\bin\Debug\en-US\Arduino IDE Splash Logo Creator.resources.dll
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\Arduino_IDE_Splash_Logo_Creator.Form1.en-US.resources
+C:\Users\jzakr\Desktop\Pliki\Visual Studio Projects\Arduino IDE Splash Logo Creator\obj\Debug\en-US\Arduino IDE Splash Logo Creator.resources.dll
