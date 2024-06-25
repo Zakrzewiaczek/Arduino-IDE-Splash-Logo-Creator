@@ -5,8 +5,8 @@
 ## How to setup application?
 
 <ul>
-  <li>Download and unzip repository</li>
-  <li>Go to <tt>..\bin\Debug\</tt> and open <tt>Arduino IDE Splash Logo Creator.exe</tt></li>
+  <li>Download and unzip latest release</li>
+  <li>Open <tt>Arduino IDE Splash Logo Creator.exe</tt></li>
 </ul>
 
   > [!IMPORTANT]
